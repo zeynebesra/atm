@@ -15,7 +15,7 @@ public class Main {
 
         ATM atm = new ATM();
 
-        Hesap hesap = new Hesap("Mustafa Murat","12345", 2000);
+        Hesap hesap = new Hesap("Zeyneb Esra","12345", 2000);
 
         atm.calis(hesap);
         System.out.println("Programdan Çıkılıyor...");
